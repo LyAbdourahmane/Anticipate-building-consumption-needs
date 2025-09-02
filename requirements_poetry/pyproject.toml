@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "projet-2"
+version = "0.1.0"
+description = "Projet d'analyse de données"
+authors = ["LyAbdourahmane <lyabdourahamane66@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.14"
+pandas = "^2.3.1"
+xgboost = "^3.0.3"
+numpy = "^2.3.2"
+matplotlib = "^3.10.5"
+seaborn = "^0.13.2"
+scipy = "^1.16.1"
+kneed = "^0.8.5"
+missingno = "^0.5.2"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
