@@ -146,5 +146,3 @@ Projet réalisé par **Abdourahamane LY**
 Dans le cadre d’une mission de Data Science pour la ville de Seattle.
 
 ---
-
-👉 Veux-tu que je te prépare aussi un **badge “Poetry”** + **badge “Python”** + **lien vers la présentation PDF** directement intégrés dans le README (style GitHub pro) ?
