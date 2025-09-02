@@ -114,7 +114,7 @@ Les relevés manuels étant coûteux, ce projet vise à **prédire la consommati
 
 ```bash
 # Cloner le repo
-git clone https://github.com/Anticipate-building-consumption-needs.git
+git clone https://github.com/LyAbdourahmane/Anticipate-building-consumption-needs.git
 cd <Anticipate-building-consumption-needs>
 
 # Installer les dépendances via Poetry
